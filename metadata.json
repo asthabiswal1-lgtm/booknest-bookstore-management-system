@@ -1,0 +1,6 @@
+{
+  "name": "BookNest - Curated Bookstore & Management System",
+  "description": "Curated bookstore management system featuring catalog browsing, shopping cart, customer checkout, order fulfillment tracking, admin inventory CRUD, and user management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
